@@ -9,6 +9,7 @@ class Program
 	{
 		Console.Write("Hello World1!\n");
 		Console.WriteLine();
+		
 		Console.WriteLine(DateTime.Now.ToTempString("yyyy-MM-dd HH:mm:ss"));
 	}
 }
