@@ -7,7 +7,7 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Console.Write("Hello World!\n");
+		Console.Write("Hello World1!\n");
 		Console.WriteLine();
 		Console.WriteLine(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
 	}
